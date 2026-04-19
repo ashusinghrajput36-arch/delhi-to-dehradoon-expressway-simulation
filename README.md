@@ -5,3 +5,5 @@ A smart highway navigation and management system simulation inspired by the Delh
 Overview
 
 This system models the expressway as a Graph structure, where cities are represented as nodes and roads are edges. By assigning weights such as distance, travel time, and toll costs to these edges, the simulation performs high-speed computations to find the most efficient transit solutions.
+
+ 
